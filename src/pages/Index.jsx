@@ -45,6 +45,15 @@ const Index = () => {
             About Me
           </Heading>
           <Text fontSize="md">Hi, I'm John Doe, a passionate Full Stack Developer with over 5 years of experience in building web applications. I love working with JavaScript, React, Node.js, and other modern web technologies. I'm also an active contributor to open source projects and enjoy collaborating with other developers to create amazing software.</Text>
+          <Text fontSize="md" mt={4}>
+            In my career, I've had the opportunity to work on a variety of projects, ranging from small startups to large enterprise applications. My expertise lies in creating scalable and maintainable code, and I have a strong focus on performance and user experience. I am proficient in both front-end and back-end development, and I enjoy the challenge of solving complex problems.
+          </Text>
+          <Text fontSize="md" mt={4}>
+            Outside of work, I am an avid learner and constantly seek to improve my skills. I regularly attend tech conferences and workshops, and I am always on the lookout for new technologies and trends in the industry. In my free time, I enjoy contributing to open source projects, writing technical blogs, and mentoring junior developers.
+          </Text>
+          <Text fontSize="md" mt={4}>
+            When I'm not coding, you can find me exploring the outdoors, playing guitar, or experimenting with new recipes in the kitchen. I believe in maintaining a healthy work-life balance and strive to bring creativity and passion to everything I do.
+          </Text>
         </Box>
       </VStack>
     </Container>
